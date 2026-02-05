@@ -16,9 +16,5 @@ cryptography==46.0.3
 
 google-genai==1.59.0
 google-generativeai==0.8.6
-google-ai-generativelanguage==0.6.15
-litellm==1.80.0
-
-emergentintegrations==0.1.14
 
 Pillow==12.1.0
